@@ -16,7 +16,7 @@ public class Variables {
         System.out.println(saludar);
         System.out.println(saludar);
         System.out.println(saludar);
-        
+        //variable tipo var tipo texto
         var despedida = "Hasta luego";
         System.out.println(despedida);
         
