@@ -19,11 +19,11 @@ public class Variables {
         //variable tipo var tipo texto
         var despedida = "Hasta luego";
         System.out.println(despedida);
-        
+        //variable var tipo numero
         var numero = 1;
         System.out.println(numero);
         System.out.println("Esto es el numero :" + numero);
-        
+        //variable var boolean
         var boleana = true;
         System.out.println(boleana);
         
